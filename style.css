@@ -1,0 +1,32 @@
+body {
+	background: #222;
+	color: #eee;
+	 font-family: arial;
+	 padding: 32px;
+}
+
+
+label{
+	margin: 20px  0px  20px 0px;
+}
+
+.question {
+	margin: 0px 0px 20px 0px;
+}
+
+.quizz{
+	margin-bottom: 40px;
+}
+
+button {
+	padding: 6px;
+	color:#222;
+	font-weight: bold;
+	border:1px outset #eee;
+	border-radius: 3px;
+}
+
+button:hover{
+	background: #4e4;
+	border:1px outset #4e4;
+}
